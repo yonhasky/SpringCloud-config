@@ -4,5 +4,10 @@ token:
 
 gateway:
   ip: 192.168.25.28
+
+#깃 커밋 : 해당경로 이동 > git add . > git commit -m "comment"
+#push : git remote -v 확인 후 
+#git push --set-upstream origin master 연결
+#git push --set-upstream origin master 최초 푸쉬일경우
         
         
