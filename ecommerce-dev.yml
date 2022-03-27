@@ -1,5 +1,6 @@
 token:
-  secret: user_token_dev
+#  secret: user_token_dev
+  secret: '{cipher}AQALwxvK+NXpOyP9aJTbw0nXbmu/zNtvvqeRQLW0x3L67vnTrvd24ZSS7wywt/vkmy7RTJl2+cwEokNTPDBGG24cUP5jGinXTAQsG/JtElXL9h5+KKG4vAn62QfPVjq2LHVbm7qGkBGuGwOJ9o5eXeu4Gt1C2+ygd8QqsjNWDrEc1wVAZSsvXzxhuwvCM8UL4JSGbReE/uRYfv2pxcDeE3H1SF9D0+NAHnGlakGUBKq1neP41q/PWEZtDAbZRVWiwhQV8JZuFQ1GoDVyGMTBQvIdljxCPl0ii8dhhAZhjM0uAx3vt6BxR7h9ap5lDcULAYa+UVw4+7Tme5iahNkYfuliompxOkc8UVOoe2937YJVdZVcpJqrK9KhtoLzH514SOU='
   expiration_time: 86400000
 
 gateway:
